@@ -1,5 +1,5 @@
 """ 代码的主要功能：
-     - 输入修改后的map_nodes（节点列表）来构造图的边列表distance_final.csv
+     - 读取修改后的map_nodes（节点列表）来构造图的边列表distance_final.csv
      - 使用高德地图API获取步行路径点，若API不可用则仅计算直线距离
 """
 import requests
